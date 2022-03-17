@@ -1,13 +1,23 @@
-## Sergey Kozhemyakin
----
+# Sergey Kozhemyakin
+###### Beginning Front-End Developer
 
-## Hi, there
+## Hi, there!
 
-### Some Info About Me
+I'm from Belarus, Brest. Nowadays I'm studying on third course at the St. Petersburg Electrotechnical University "LETI" and learning web development on my own. I'll tell more about me and my skills on this page below
+
+### Some Fast Info About Me
 - I'm currently trying to start my career as a Front-End Developer
 - Learning JavaScript, Typescript, Python, Node.js and more about web 
 - Really enjoy of coding, studying and exploring 
-- Three courses of study in St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
+- Currently studying at [Rolling Scopes School](https://rs.school/) on JS / Front-End course
+- Three courses of study at St. Petersburg's State Electrotechnical University ("LETI") gave me in-depth lernings of C/C++, Assembler, basics of OOP and Operating Systems
+
+### Main Skills
+**Web Development:** HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
+
+**Native Programming:** Python3, C/C++
+
+**Other Skills:** Git, Linux, SQL (PostgreSQL)
 
 ### Contacts
 - [GitHub Profile](https://github.com/jeezou)
@@ -17,9 +27,13 @@
 - Discord Nickname: ok boomer#1151
 - RSSchool-Server Nickname: Sergey(@jeezou)
 
-### Main Skills
-Web Development: HTML, CSS3 (SCSS), JavaScript, Node.js, REST API, Express.js, MongoDB, Vue.js, Figma
+### Completed Courses / Learning Programs
+Associated with SPB State Electrotechnical University: 
+- Algorithms and Data Structures
+- Discrete Mathematic
+- Linear Algebra and Analytic Geometry
+- Mathematical Logic and Theory of Algorithms
+- Database Theory and Data Managment
 
-Native Programming: Python3, C/C++
-
-Other Skills: Git, Linux, SQL (PostgreSQL)
+Other courses:
+- [Hacktory Web Security Certified](https://app.hacktory.ai/certificates/0c81aef1-412c-4fce-a1e0-a360876f8664)
