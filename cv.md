@@ -37,3 +37,18 @@ Associated with SPB State Electrotechnical University:
 
 Other courses:
 - [Hacktory Web Security Certified](https://app.hacktory.ai/certificates/0c81aef1-412c-4fce-a1e0-a360876f8664)
+
+### Codewars Example
+Return the sum of all the multiples of 3 or 5 below the number passed in. Additionally, if the number is negative, return 0 (for languages that do have them)
+```
+function solution(number){
+  if(number < 3) return 0
+  let result = 0
+  for (let i = 0; i < number; i++){
+    if(i % 3 == 0 || i % 5 == 0) {
+      result += i
+    }
+  }
+  return result
+}
+```
