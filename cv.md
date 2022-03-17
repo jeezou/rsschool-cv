@@ -3,7 +3,7 @@
 
 ## Hi, there!
 
-I'm from Belarus, Brest. Nowadays I'm studying on third course at the St. Petersburg Electrotechnical University "LETI" and learning web development on my own. I'll tell more about me and my skills on this page below
+I'm from Belarus, Brest. Nowadays I'm studying on fourth course at the St. Petersburg Electrotechnical University "LETI" and learning web development on my own. I'll tell more about me and my skills on this page below
 
 ### Some Fast Info About Me
 - I'm currently trying to start my career as a Front-End Developer
