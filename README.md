@@ -1,1 +1,1 @@
-# rsschool-cv
+[CV link](https://jeezou.github.io/rsschool-cv)
